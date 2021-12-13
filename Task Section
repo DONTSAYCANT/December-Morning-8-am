@@ -44,5 +44,26 @@ Indexing in python
 write a program to calculate area of circle with radius 7
 write a program to calculate perimeter of the cricle with radius 10.2
 
+13-12-2021
+=======================
+
+#Task1:
+          int   float  bool  str 
+int        X
+float             X
+bool                     X
+Str                           X
+
+
+#Task2:
+
+write a program to calculate area of circle with radius (collect using input function)
+write a program to calculate perimeter of the cricle with radius (collect it through input function)
+
+#Task3:
+
+Collect radius and height from user,
+calculate Area of cone (area of cone = pi * r * r * h)
+print output in integer data type and formatted way
 
 
