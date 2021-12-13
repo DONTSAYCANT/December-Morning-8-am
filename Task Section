@@ -66,4 +66,25 @@ Collect radius and height from user,
 calculate Area of cone (area of cone = pi * r * r * h) (float)
 print output in integer data type and formatted way
 
+Task4:
 
+"computer_science
+
+
+print(a[-1]) #last char
+print(a[0]) #first char
+
+print(a[4])
+print(a[-4])
+
+print(a[2])
+print(a[-2])
+
+print(a[-3])
+print(a[-5]) 
+
+print(a[7])
+print(a[-7])
+
+print(a[8])
+print(a[-8])
