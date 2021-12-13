@@ -55,15 +55,15 @@ bool                     X
 Str                           X
 
 
-#Task2:
+#Task2: (print output in int)
 
-write a program to calculate area of circle with radius (collect using input function)
-write a program to calculate perimeter of the cricle with radius (collect it through input function)
+write a program to calculate area of circle with radius (float) (collect using input function)
+write a program to calculate perimeter of the cricle with radius (float) (collect it through input function)
 
-#Task3:
+#Task3: (input: float, output: int)
 
 Collect radius and height from user,
-calculate Area of cone (area of cone = pi * r * r * h)
+calculate Area of cone (area of cone = pi * r * r * h) (float)
 print output in integer data type and formatted way
 
 
