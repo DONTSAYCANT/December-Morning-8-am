@@ -213,7 +213,7 @@ print(a[-5:-3:20])
 
 
 ==============================================
-String methods Tasks
+String methods Tasks Decmber 18
 ==============================================
 
 
@@ -235,6 +235,8 @@ output: python  (strip,rstrip,lstrip method *)
 
 
 Task3: (name<space>float)
+
+collect three strings from user  name<space>float
 
 string1: "ravi 10.30"  
 string2: "meghala 12.19"
