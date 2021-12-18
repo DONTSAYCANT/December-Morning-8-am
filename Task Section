@@ -212,3 +212,100 @@ print(a[3:-3:3])
 print(a[-5:-3:20])
 
 
+==============================================
+String methods Tasks
+==============================================
+
+
+Task1:
+
+Get one string from user
+identify the middle character of the string
+
+
+Task2:
+
+
+string1: ***python***
+string1: **python********
+string: ********java*******
+
+
+output: python  (strip,rstrip,lstrip method *)
+
+
+Task3: (name<space>float)
+
+string1: "ravi 10.30"  
+string2: "meghala 12.19"
+string3: "Gokul 20.20"
+
+split + indexing
+
+10.30 + 12.19 + 20.20 ===> output ===> round (42.69000) 5 decimal places should be (format)
+
+
+Task4:
+
+#collect two strings from user
+
+string1: python
+String2: java
+
+output ===> jythonpava64hv
+
+string1: maths
+string2: science
+
+output ===> sathsmcience57te
+
+Task5:
+
+Collect two strings from user
+
+string1: wikipedia
+string2: typescript
+
+output: p  +  c   ===> ascii value of p + ascii value of c  ====>  198
+(ord , chr)
+
+
+Task6:
+
+collect one string from user:
+
+string: computer
+output: c6r
+
+string: mathematics
+output: m9s
+
+
+Task7
+
+Say hello world with python
+
+
+Task 8
+
+swapcase
+
+Task9
+
+what;s your name
+
+
+Task10:
+
+Mutation
+
+
+
+
+
+
+
+
+
+
+
