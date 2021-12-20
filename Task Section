@@ -302,7 +302,22 @@ Task10:
 Mutation
 
 
+==========================================
+Dec 20/2021
+=========================================
 
+List
+
+#Create an empty list (two ways)
+#Concatenate with [5,6,7,8]
+#add 8,9,1,5,6,7,8,1 elements to that list
+#Find frequency of 8 (count)
+#find the mean of the list
+#find sum (List) + min + Max 
+#Find median of the list
+#remove duplicates from list and give output in the format of tuple
+
+Study: https://www.w3schools.com/python/python_ref_list.asp
 
 
 
