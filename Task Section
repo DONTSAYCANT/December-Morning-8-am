@@ -328,5 +328,50 @@ identify 5 difference between list/tuple/set/dictionary
 
 
 
+==========================================
+Dec 22
+==========================================
+
+
+List
+
+#Create an empty list (two ways)
+#Concatenate with [5,6,7,8]
+#add 8,9,1,5,6,7,8,1 elements to that list
+#Find frequency of 8 (count)
+#find the mean of the list
+#find sum (List) + min + Max 
+#Find median of the list
+#remove duplicates from list and give output in the format of tuple
+
+Study: https://www.w3schools.com/python/python_ref_list.asp
+
+Tuple
+
+#Create two tuples (1,4,5,6,7,8) (5,6,7,8,9)
+#Find the common elements between two tuples
+#Concatenate both tuples and remove duplicates from tuple
+#Find the index value of 9 (after concatenation)
+#multiply above elements 3 times
+
+ Sets
+
+#Create two empty sets
+#update set1 with 7,8,9,1,2,3,4,5,0
+#update set2 with 4,5,6,0
+#check whether set2 is subset of set1 or no ?
+#check whether both have common elements are no ?
+#remove 8 from set 1 and set 2 ==> find the inferences
+#discard 0 from set1 and set2 
+#find collection of both sets ===> set1 and set2
+
+Dictionary:
+
+#create a dictionary
+#{1:["english","maths","science"], 2:[10,20,30], 3:["bio-botany","bio-zoology","Algebra"]}
+#Extract "bobtn" from above dictionary
+#Extract "arbeg" from above dictionary
+#print all keys in dictionary and convert it into tuple
+#Find the average of all numbers available under key "2"
 
 
