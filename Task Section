@@ -511,6 +511,84 @@ Task4:
 December 25
 ==========================================
 
+Task1:
+
+#Using Range function  print multiples of 5 from 0 to 75
+#Using Range function  print multiples of 8 from 0 to 72
+
+#Using Range function  print multiples of 5 from 75 to 0
+#Using Range function  print multiples of 8 from 96 to 72
 
 
+Task2:
 
+Get a dynamic list from user
+
+Task3:
+
+Get a dynamic dictionary from user
+
+clues Task2 and Task3
+#1. get number of elements from user
+#Loop through range
+#append to list/dicti
+
+Task4:
+
+Get two integers from user
+print multiples of 8 between them
+
+clues:
+Use range function in for loop
+Use if condition inside for loop
+add in to list
+
+input 10 100
+multiples of 8
+
+[16,24,32.....,96]
+
+
+Task5:
+
+
+Input:
+Li1 = [3,4,5,2,7,8,9,10]
+
+Output:
+Li_odd = [3,5,7,9]
+Li_even = [4,2,8,10]
+
+#Li1 = [3,4,5,2,7,8,9,10]
+
+Task6:
+
+Input: [-1, -7,8,10,20,21,17,28,-3,0,0,]
+    
+Output:
+neg_LI = [-1,-7,-3]
+pos_LI = []
+Zeros = []
+
+Numeber of postivie ele: 7
+Number nega: 3
+Number of zeros: 2
+
+
+Task7:
+
+Study range function and for loop properly
+
+https://www.w3schools.com/python/python_for_loops.asp
+https://www.w3schools.com/python/python_while_loops.asp
+https://github.com/DONTSAYCANT/python_may_june_batch/blob/main/Loops%20.ipynb
+
+print(list(range(5)))
+print(list(range(1,5)))
+print(list(range(5,20)))
+print(list(range(-5,5)))
+print(list(range(10,100,10)))
+print(list(range(10,0,-1)))
+print(list(range(-5,5,3)))
+print(list(range(10,100,5)))
+print(list(range(10,0,-2)))
