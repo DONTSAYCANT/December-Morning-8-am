@@ -592,3 +592,32 @@ print(list(range(10,0,-1)))
 print(list(range(-5,5,3)))
 print(list(range(10,100,5)))
 print(list(range(10,0,-2)))
+
+
+===================================
+Dec 27-2021
+====================================
+
+
+#User Def functions
+Write function to concatenate three strings
+Write a function multiply three different integers and return a int
+Write a function to check a string is palindrom or not
+Write a function to return middle char of the string
+write a function to return whether middle character is vowel or not 
+
+
+#Inbuilt functions (10 different)
+https://www.w3schools.com/python/python_ref_functions.asp
+
+bin
+oct
+hex
+any
+all
+
+
+
+
+
+
