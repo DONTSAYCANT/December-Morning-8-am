@@ -616,6 +616,26 @@ hex
 any
 all
 
+====================================
+Dec 28-2021
+===================================
+
+Inbuilt functions: exec, enumerate, hash, format, eval, frozenset, round
+
+
+Userdef function:
+
+check whether number is prime or no
+check whether number is armstrong number or no
+Find factorial of a number
+Find Fibnacci series
+Find factors of a number
+
+12: 1,2,3,4,6,12
+9: 1,3,9
+10: 1,2,5,10
+
+
 
 
 
