@@ -1,1 +1,119 @@
+========================================================================================================
+Miniproject: 
 
+rock paper scissor
+
+1 player: user  2nd player: system
+
+rock + rock ==> Tie
+paper + paper ==> Tie
+scissor + scissor ==> Tie
+
+rock + scissor ==> rock
+paper + scissor ==> scissor 
+rock + paper  ===> paper
+
+How to collect user input ==> input
+
+How to collect system input ==> random
+
+import random
+
+Li1 = ["rock","paper","scissor"]
+
+print(random.choice(Li1))
+print(random.choice(Li1))
+print(random.choice(Li1))
+print(random.choice(Li1))
+print(random.choice(Li1))
+
+Number of games you want to play ? collect one integer
+
+Who wins?
+
+Number of games you want to play ?  3
+
+Game 1:
+Give your input ["rock","paper","scissor"] : rock
+System input: random 
+
+
+Game 2:
+
+Give your input ["rock","paper","scissor"] : rock
+System input: random 
+
+Game3
+
+Give your input ["rock","paper","scissor"] : rock
+System input: random 
+
+Total of number games: 3
+System points ==> 0
+User point ==> 2
+Tie ===> 1
+
+USER wins the game !!! Congrats !!!!
+
+
+==============================================================================================================
+
+Project1: Datastructure calculator (List/tuple/set/dictionary/loops)
+
+==========================================
+
+Welcome to Data structure calculator
+
+Please select any one Data structure, 
+1. List (15 operations) ==> List.py
+2. Tuple (5 operatios)  ===> Tuple.py
+3. Set (15 operations) ===> Set.py
+4. Dictionary (10 operations) ==> Dict.py
+
+Main.py
+
+import List
+import Tuple
+import Set
+import Dict
+
+
+Do create Datastructure:
+
+List ==> selected
+1. create list 
+
+Options under List:
+
+1. append
+2. pop
+3. update / concatenation
+4. sum/min/max
+5. pop
+6. len 
+7. mean
+8. median
+9. find
+10. frequency
+11. .... 15 operations
+
+(15 operations)
+
+
+Set:
+
+Create a set
+
+Options:
+
+1. add
+2. update
+3. intersection
+
+1. Start with the project
+2. Modules
+3. Documentation
+4. Exception handling
+5. Github documentation
+
+==============================================================================================================
