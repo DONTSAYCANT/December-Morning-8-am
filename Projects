@@ -120,7 +120,125 @@ Options:
 
 Project2: Quiz competition generator (json/while/functions)
 
-Project3: Resume parser and downloader
+=========================================================================================================
+
+Questions: Json file
+
+https://www.geeksforgeeks.org/python-json/
+https://www.geeksforgeeks.org/working-with-json-data-in-python/
+
+
+Quiz competition generator (json parsing) 
+    
+#w3 school python 
+
+https://www.geeksforgeeks.org/read-json-file-using-python/
+
+#data (question )  ==> json file
+
+{
+"Question 1":
+    "Question":"Which is immutable data structure",
+    "Option1": "List",
+    "Option2": "Tuple",
+    "Option3": "Dictionary",
+    "Correct answer": "Option 2"
+"Question 2":
+    "Question":"Which is mutable data structure",
+    "Option1": "Set",
+    "Option2": "List"
+    "Option3": "Dictionary",
+}
+
+#10, 25, 15
+#question answer explanation points
+#previous question
+
+#json
+#while if else
+ Quiz competition generator (json parsing) 
+    
+#w3 school python 
+
+#data (question )  ==> json file
+
+{
+"Question 1":
+    "Question":"Which is immutable data structure",
+    "Option1": "List",
+    "Option2": "Tuple",
+    "Option3": "Dictionary",
+    "Correct answer": "Option 2"
+"Question 2":
+    "Question":"Which is mutable data structure",
+    "Option1": "Set",
+    "Option2": "List"
+    "Option3": "Dictionary",
+}
+
+#10, 25, 15
+#question answer explanation points
+#previous question
+
+
+total_dict = {"Question 1":{"Question":"Which is immutable data structure","Option1": "List","Option2": "Tuple","Option3": "Dictionary","Correct answer": "Tuple"},"Question 2":{"Question":"Which is mutable data structure","Option1": "Set","Option2": "List","Option3": "Dictionary"}}
+
+#print(total_dict)
+
+print("welcome quiz")
+
+print("1.  ",total_dict["Question 1"]["Question"])
+print("Options1 : ",total_dict["Question 1"]["Option1"])
+print("Options2 : ",total_dict["Question 1"]["Option2"])
+print("Options3 : ",total_dict["Question 1"]["Option3"])
+
+answer = input("please enter anyone option: Options1/Options2/Options3: ")
+
+
+if answer == total_dict["Question 1"]["Correct answer"]:
+    print("Answer is correct for Question")
+else:
+    print("wrong answer")
+    
+    
+send scores in mail and whatsapp/mobile number
+
+===========================================================================================
+Project3: Resume parser and downloader (regex file handling)
+
+==========================================================================================
+
+Collect one Resume from user
+
+Parse some details
+
+
+1. Introduction section
+  Name
+  email id
+  mobile number
+  linked id
+  git hub id
+  two lines
+  
+  
+2. Education
+  BE 
+  
+3. Skill sets
+  
+
+4. Technical projects
+
+5. Certification
+
+
+
+i ) <get it from user using input>
+ii) get a json file from user
+
+Json file ===>
+
 
 project4: wikipedia parser
 
